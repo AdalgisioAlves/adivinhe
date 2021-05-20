@@ -9,7 +9,7 @@ final class PerguntasTest extends TestCase
     {
         $pergunta = new Perguntas;
         $resp = $pergunta->fazerPergunta("Qual seu nome \n");
-        !$this->assertNotEmpty($resp);
+        $this->assertNotEmpty($resp);
     }
 
     
