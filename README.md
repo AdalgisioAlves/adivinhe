@@ -1,9 +1,9 @@
 
 #REQUISITOS DO PROJETO
-PHP 7.3
-psr-4
-composer
-Phpunit 9
+    1 - PHP 7.3
+    2 - psr-4
+    3 - composer
+    4 - Phpunit 9
 Para executar o projeto é necessário ter o php7 configurado no path do windows.
 
 #SOBRE O PROJETO
