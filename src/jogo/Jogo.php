@@ -9,7 +9,7 @@ class Jogo
     private $nomePrato;
     private $adjetivoPrato;
     private $pergunta;
-    private $isMassa;
+    
     function __construct($prato)
     {
         $this->nomePrato = $prato;
